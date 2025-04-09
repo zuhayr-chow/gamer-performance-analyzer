@@ -10,7 +10,7 @@ This project analyzes 60 days of gameplay session data to answer:
 - **Tableau** (data visualization & dashboard design)
 
 ## 📈 Key Insights
-- Apex Legends had the **highest K/D ratio** (2.34)
+- Apex Legends had the **highest K/D ratio** (9.33)
 - Best win rates occurred during **focused mood** (~60%)
 - Longer sessions didn’t always lead to better performance
 - Overwatch was **most played** but not most efficient
