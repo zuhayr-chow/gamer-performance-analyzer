@@ -24,7 +24,7 @@ This project analyzes 60 days of gameplay session data to answer:
 - `/data`: Generated CSVs
 - `/notebooks`: All Python code (data + SQL)
 - `/images`: Screenshots of dashboard
-- `/dashboard`: Final exported dashboard (PDF or TWBX)
+- `/dashboard`: Final exported dashboard (TWBX file)
 
 ## 💡 What I Learned
 - How to simulate realistic datasets using Python
