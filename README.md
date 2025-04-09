@@ -18,7 +18,7 @@ This project analyzes 60 days of gameplay session data to answer:
 ## 📊 Dashboard Preview
 ![Dashboard](images/dashboard_preview.png)
 
-📌 [View Full Dashboard on Tableau Public](https://your-tableau-link.com)
+📌 [View Full Dashboard on Tableau Public](https://public.tableau.com/app/profile/zuhayr.chowdhury4285/viz/GamingAnalysis_17441877582240/GamerPerformanceAnalyze)
 
 ## 📁 Files Included
 - `/data`: Generated CSVs
